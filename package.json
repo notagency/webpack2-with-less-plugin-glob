@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "watch": "webpack --progress --watch",
+    "build": "webpack --progress -p"
+  },
+  "dependencies": {
+    "autoprefixer": "^6.5.0",
+    "css-loader": "^0.15.1",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "less": "^2.7.1",
+    "less-loader": "^4.0.3",
+    "less-plugin-glob": "^2.0.0",
+    "postcss-loader": "^0.13.0",
+    "style-loader": "^0.12.3",
+    "webpack": "^2.0.0"
+  }
+}
